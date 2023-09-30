@@ -56,7 +56,7 @@
     font-style: italic;
 }
 .left button {
-    background-color: #9189fd; /* Green */
+    background-color: #9189fd;
   border: none;
   color: white;
   padding: 15px 32px;
@@ -97,7 +97,7 @@
     height: 50px;
     text-align: center;
     padding-left: 40%;
-    background-color: beige;
+    background-color: antiquewhite;
     font-family: sans-serif;
 
     
@@ -113,7 +113,7 @@
 .container {
    display: flex;
    height: 300px;
-   background-color: beige;
+   background-color: antiquewhite;
   
   
     
@@ -132,15 +132,19 @@
     background-color: red;
     justify-content: center;
     font-style: italic;
-    background-color: rgb(175, 167, 167);
+    background-color: rgb(26, 26, 94);
 
 
 }
 .thirdpart h3 {
     padding-top: 150px;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: antiquewhite;
 
 
+}
+.thirdpart h1 {
+    color: antiquewhite;
 }
 
 .one.two.three {
@@ -152,7 +156,7 @@
     color: antiquewhite;
     flex-direction: column;
 
-    background-color: darkblue;
+    background-color: rgb(26, 26, 94);
     height: 200px;
     margin: 150px;
     border-radius: 8px;
@@ -183,6 +187,19 @@
     padding-left: 45%;
 }
     
+.signup {
+    background-color: #bfbfc0; 
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+    padding: 10px;
+    width: 20%;
+    margin-left: 70%;
+}
 
 
  
